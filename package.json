@@ -1,0 +1,12 @@
+{
+    "name": "Domobox-Dashboard",
+    "description": "Creación de un cuadro de mandos para el proyecto DomoBOX.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
